@@ -98,6 +98,3 @@ class TestViewSet(ApiViewSets):
     def test(self, request, *args, **kwargs):
         pass
 ```
-#### 如下图效果
-<img src="docs/imgs/django-1.png" width=100% height=680 />
-<img src="docs/imgs/django-2.png" width=100% height=680 />
